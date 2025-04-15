@@ -13,7 +13,8 @@ kotletSchabowy
 25 KEBAB_Rodzinka
 26 KEBAB_SOLEK
 27
-28
+28 schabowy
+placki ziemniaczane
 29
 30
 31 KEBAB_ŻMUDA
