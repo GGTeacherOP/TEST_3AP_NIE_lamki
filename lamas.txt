@@ -25,5 +25,5 @@ pierogi
 29
 30
 31 KEBAB_ŻMUDA
-32 gulasz 
-spaghetti
+32 KEBAB_ROGÓZ
+
