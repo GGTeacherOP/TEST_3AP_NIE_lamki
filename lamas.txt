@@ -2,8 +2,7 @@ Obiadek :)
 10 KEBAB_GODZWON
 12
 17
-18 pomidorowa
-kotletSchabowy
+18 KEBAB_LATAWIEC
 17 KEBAB_LASKOWSKI
 18
 19 KEBAB_LECH
@@ -18,5 +17,5 @@ placki ziemniaczane
 29
 30
 31 KEBAB_ŻMUDA
-32 gulasz 
-spaghetti
+32 KEBAB_ROGÓZ
+
