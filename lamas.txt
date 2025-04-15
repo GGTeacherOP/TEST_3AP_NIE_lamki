@@ -5,11 +5,20 @@ Obiadek :)
 18 KEBAB_LATAWIEC
 17 KEBAB_LASKOWSKI
 18
+19
 19 KEBAB_LECH
+21 Krolowa polskich zup(pomidorowa)
+krewetusie
 21 Kebab_Novak
+23
 23 KEBAB_PEZDA
 24
+24 ulubione pierwsze danie: schabowy
+barszcz
+25
 25 KEBAB_Rodzinka
+26 schabowy
+pierogi
 26 KEBAB_SOLEK
 27
 28 KEBAB_SZEWC
