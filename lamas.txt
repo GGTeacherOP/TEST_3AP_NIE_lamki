@@ -9,8 +9,7 @@ kotletSchabowy
 18
 19
 21
-23 Ziemniaki
-Schabowy
+23 KEBAB_PEZDA
 19 Pierogi Ruskie
 Ryż z Kurczakiem
 21 Krolowa polskich zup(pomidorowa)
