@@ -8,7 +8,7 @@ kotletSchabowy
 17 KEBAB_LASKOWSKI
 18
 19 KEBAB_LECH
-21
+21 Kebab_Novak
 23 KEBAB_PEZDA
 24
 25
