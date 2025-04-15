@@ -14,8 +14,7 @@ Ryż z Kurczakiem
 krewetusie
 23
 24
-25 Pizza 
-Kebab
+25 KEBAB_Rodzinka
 26 KEBAB_SOLEK
 27
 28
