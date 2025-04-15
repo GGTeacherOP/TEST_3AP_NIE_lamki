@@ -17,4 +17,5 @@ placki ziemniaczane
 29
 30
 31 KEBAB_ŻMUDA
-32
+32 gulasz 
+spaghetti
