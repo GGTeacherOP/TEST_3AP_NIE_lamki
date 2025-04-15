@@ -1,14 +1,18 @@
 Obiadek :)
-10
+10 zupa z trupa
+kebab
 12
 17
+18 pomidorowa
+kotletSchabowy
+17 KEBAB_LASKOWSKI
 18
-19
+19 KEBAB_LECH
 21 Kebab_Novak
-23
+23 KEBAB_PEZDA
 24
 25
-26
+26 KEBAB_SOLEK
 27
 28
 29
